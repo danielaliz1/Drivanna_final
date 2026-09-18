@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta extraída del mockup de Drivana -->
+    <color name="drivana_red_dark">#B33A3A</color>
+    <color name="drivana_red">#D9534F</color>
+    <color name="drivana_black">#1C1C1C</color>
+    <color name="drivana_gray">#8A8A8A</color>
+    <color name="drivana_gray_light">#E5E5E5</color>
+    <color name="drivana_amber">#D9A62E</color>
+    <color name="drivana_green">#3C9D6E</color>
+    <color name="drivana_green_light">#7FCB9B</color>
+    <color name="drivana_white_soft">#FAFAF8</color>
+    <color name="drivana_white">#FFFFFF</color>
+
+    <color name="text_primary">#1C1C1C</color>
+    <color name="text_secondary">#8A8A8A</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface_gray">#E5E5E5</color>
+</resources>

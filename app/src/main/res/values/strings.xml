@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drivana</string>
+    <string name="tagline">"Todo lo que tu auto necesita."</string>
+
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="mantenerse_sesion">Mantenerse en la sesión</string>
+    <string name="no_tienes_cuenta">"Si no tienes cuenta, "</string>
+    <string name="registrate">Regístrate</string>
+    <string name="ya_tienes_cuenta">"Si ya tienes cuenta, "</string>
+    <string name="inicia_sesion_link">inicia sesión</string>
+
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="recordar_contrasena">Recordar tu contraseña</string>
+
+    <string name="hola_usuario">Hola, %1$s !</string>
+    <string name="como_esta_tu_carro">¿Cómo está tu carro hoy?</string>
+
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar_cerrar_sesion">¿Quieres cerrar la sesión de Drivana?</string>
+
+    <string name="mis_carros">Mis Carros</string>
+    <string name="configuracion">Configuración</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="privacidad">Privacidad</string>
+
+    <string name="ayuda_subtitulo">Resuelve dudas generales sobre tu cuenta.</string>
+    <string name="contacta_soporte">Contacta soporte</string>
+
+    <string name="aviso_privacidad_titulo">Aviso de Privacidad</string>
+    <string name="aviso_privacidad_cuerpo">"AVISO DE PRIVACIDAD — DRIVANA\n\nEn Drivana nos preocupamos por la privacidad y seguridad de nuestros usuarios. Este aviso explica cómo recopilamos y utilizamos la información proporcionada al utilizar nuestra aplicación.\n\n1. Información que recopilamos\nPodemos recopilar: nombre y correo electrónico, información del vehículo, registros de mantenimiento, reparaciones y gastos, fechas y recordatorios de mantenimiento.\n\n2. Para qué utilizamos la información\nLa información se utiliza para administrar la cuenta del usuario, registrar y organizar la información de sus vehículos, y generar recordatorios de servicio."</string>
+
+    <string name="error_campos_vacios">Todos los campos son obligatorios</string>
+    <string name="registro_exitoso">Registro exitoso, ahora inicia sesión</string>
+    <string name="usuario_ya_existe">Ese usuario ya existe</string>
+    <string name="credenciales_invalidas">Usuario o contraseña incorrectos</string>
+    <string name="bienvenida">"¡Bienvenido de vuelta, %1$s!"</string>
+
+    <string name="buscar_hint">¿Qué le pasa a tu carro?</string>
+    <string name="nuevos">Nuevos!</string>
+</resources>
